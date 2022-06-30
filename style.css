@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime&family=Roboto:wght@100&display=swap');
+
+nav {
+    font-family:'Bebas Neue', cursive;
+    min-height:80px;
+}
+
+.bg-red {
+    background-color: #f9003c;
+}
+
+.nav-link.contact {
+    background-color: #A058ff;
+    border: 1px solid #080324;
+    min-width: 18%
+}
+.borda-senai {
+  background-color:#A058ff;
+  border: 1px solid #080324;
+  min-width: 80px;
+}
+
+h1 {
+    font-family: "Bebas neue", cursive;
+    text-transform:uppercase;
+    color:white;
+    font-size: 80px;
+}
+
+.nav-link {
+    color: white;
+    margin-right:55px;
+    margin-left: 55px;
+}
+
+.banner-home {
+    background-image:url(imagem-fundo-banner.jpg);
+    /*height: auto;*/
+    background-color:no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+.banner-home .row {
+    height: 768PX;
+}  
+
+ hr {
+     border: 1px solid #FFaF00;
+     opacity:1;
+
+ }
+ h2 {
+     font-family: 'Courier New', Courier, monospace;
+     color: #f9003c;
+     font-size: 40px;
+ }
+
+ .banner-home {
+     margin-bottom: 56px;
+ }
+body {
+    background-color: #080224;
+}
+
+h3 {
+    font-family: 'bebas neue', cursive;
+    color:#f9003d;
+    font-size: 30px;
+}
+
+.linha {
+    font-size: 19px;
+    color: white;
+}
+
+h4 {
+    color: #FFaF00;
+    font-size: 40px;
+    font-family: 'bebas Neue', cursive;
+}
+
+h5 {
+    color: white;
+    font-size: 'courier Prime, monospcace';
+    margin-top: 75px;
+}
+
+.secao-locais {
+    color: white;
+    background-image: url(imagem-fundo-ranking.jpg);
+    min-height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}  
+
+.secao-locais .row {
+    min-height: 330px;
+}
+
+.box-main {
+    width: 250px;
+}
+
+.box-local {
+    border: 2px #a058ff solid;
+    height: 90px;
+    color: #a058ff;
+}
+
+.order-last {
+     font-size: 20px;
+     font-family: 'Courier New', Courier, monospace;
+}
+
+.text-center {
+    margin-top: 30px;
+}
+
+.endereco-now .row {
+    color:#a058ff;
+    background-image: url(imagem-fundo-ranking.jpg);
+    min-height: auto;
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size:cover ;   
+}
+
+.endereco-now .row {
+    min-height: 330px;
+}
+
+.borda-endereco {
+    background-color: black;
+    border: 1px solid #a058ff;
+}
+
+.font-endereco {
+    font-family:'Bebas Neue', cursive;
+    color: #FFaF00;
+    font-size: 50px;
+}
+
+.texto-endereco {
+    font-family: 'Courier New', Courier, monospace;
+    color: #a058ff;
+    font-size: 20px;
+}
+
+.borda-endereco {
+    border: 2px #a058ff solid;
+    font-size: 30px;
+    color: #a058ff;
+}
+
+.position-absolute {
+    top: 0;
+    right: 26px;}
+
+nav {
+    font-family:'Bebas NEUE', cursive;
+    min-height: 80px;
+}
+
+.bg-red {
+    background-color: #f9003c;
+}
+
+footer {
+    background-color: #f9003c;
+}
+
+.texto-footer {
+    color: white;
+    font-size: 19px;
+}
+
+.contate-nos {
+
+}
+
+
+
